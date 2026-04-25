@@ -1,0 +1,32 @@
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.venv/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+npm-debug.log*
+
+# Environment files
+.env
+.env.local
+
+# IDE and misc
+.vscode/
+*.swp
+
+# Logs and databases
+logs/
+*.log
+*.sqlite3
+
+# dist
+dist/
+build/
