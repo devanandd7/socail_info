@@ -122,13 +122,13 @@ SignalFeed is a hybrid social signal intelligence app that collects, filters, an
    echo 'NEXT_PUBLIC_API_BASE=http://localhost:8000' > .env.local
    ```
 
-3. Run:
+3. Run:-
 
    ```bash
    npm run dev
    ```
 
-4. Open:
+4. Open:-
 
    - http://localhost:3000
 
